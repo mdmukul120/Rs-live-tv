@@ -1,489 +1,510 @@
 [
     {
         "id": 1,
+        "name": "ZIM vs IND",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+        "category": "General",
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+        "id": 2,
+        "name": "PAK vs Sl Women",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
+        "category": "General",
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+    },
+    {
+        "id": 3,
         "name": "LPL 2026",
         "logo": "https://i.ibb.co/cSX2LswR/20260724-083235.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104"
     },
     {
-        "id": 2,
+        "id": 4,
         "name": "T Sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMmL5rJgeicFQr1zQpvAFagv3f30R-rbeCLq7DjgaYQ27CKCNs8k4fWsw&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104"
     },
     {
-        "id": 3,
+        "id": 5,
         "name": "Willow Sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDFd1LJqPQMhYnIIpskiG9muZ7WJbNJt3jcLxmAdbAgCs2pxLpww4N8k&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
     },
     {
-        "id": 4,
+        "id": 6,
         "name": "Euro Sports",
         "logo": "https://i.ibb.co.com/svc0FSzY/images.webp",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8"
     },
     {
-        "id": 5,
+        "id": 7,
         "name": "Sony Sports 1",
         "logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
     },
     {
-        "id": 6,
+        "id": 8,
         "name": "Sony Sports 2",
         "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8"
     },
     {
-        "id": 7,
+        "id": 9,
         "name": "Sony Sports 5",
         "logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8"
     },
     {
-        "id": 8,
+        "id": 10,
         "name": "Caze Tv",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
     },
     {
-        "id": 9,
+        "id": 11,
         "name": "Star Jalsha",
         "logo": "https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8"
     },
     {
-        "id": 10,
+        "id": 12,
         "name": "ZEE Bangla",
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b1/Zee_Bangla_English_Int%27l_%282017%29.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8"
     },
     {
-        "id": 11,
+        "id": 13,
         "name": "Sananda Tv",
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live.sanandatelevision.in/sananda/index.m3u8"
     },
     {
-        "id": 12,
+        "id": 14,
         "name": "Sony Aath",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQumIhdSQk1lOrJOp9wkqLZUnjljYKlpXkJbQpvgUG1J0W0OrDz08P7w8x&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://obiramtv.pro.bd/toffee/play/sonyaath.m3u8"
     },
     {
-        "id": 13,
+        "id": 15,
         "name": "Enterr10",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",
         "category": "General",
         "stream_url": "https://shakplayer.vercel.app/index.html?url=https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
     },
     {
-        "id": 14,
+        "id": 16,
+        "name": "TaraTv",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwUyv4yOvRJxQRRNROFj3e0LVNjDNNi1eE-OPjPeqW2FwSxfcoZSAM1A&s=10",
+        "category": "General",
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "id": 17,
         "name": "Zee Bangla Sonar",
         "logo": "https://i.ytimg.com/vi/uJJaKXtOqsw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAZZk6nxkDN1SXg6HkPRsgqbF8QlQ",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8"
     },
     {
-        "id": 15,
+        "id": 18,
         "name": "Bangla Plus",
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
     },
     {
-        "id": 16,
+        "id": 19,
         "name": "Sangeet Bangla",
         "logo": "https://imglink.cc/cdn/LmVOSdl3ku.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://cdn-4.pishow.tv/live/1143/master.m3u8"
     },
     {
-        "id": 17,
+        "id": 20,
         "name": "Akash Go",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8"
     },
     {
-        "id": 18,
+        "id": 21,
         "name": "Bijoy Tv",
         "logo": "https://pbs.twimg.com/profile_images/1689620641283190784/GGbvbn-B_400x400.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8"
     },
     {
-        "id": 19,
+        "id": 22,
         "name": "Me Tv",
         "logo": "https://www.metvbd.com/media/common/logo-fb.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://iptvbd.live/metv1080/1080.m3u8"
     },
     {
-        "id": 20,
+        "id": 23,
         "name": "G-Series",
         "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8"
     },
     {
-        "id": 21,
+        "id": 24,
         "name": "Movie Bangla",
         "logo": "https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://bestiptv.bestiptv-pro.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8"
     },
     {
-        "id": 22,
+        "id": 25,
         "name": "Asian Tv",
         "logo": "https://yt3.googleusercontent.com/eMcIPmI9hKQIHua9lU7l7AnELALHsP_1EwIkZ8tJa-FV-epwPdiX0zxb5gnUuH2-R0t8hpxHxA=s900-c-k-c0x00ffffff-no-rj",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": 23,
+        "id": 26,
         "name": "Ananda Tv",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/1280px-Logo_of_Ananda_TV.svg.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": 24,
+        "id": 27,
         "name": "Ekushey Tv",
         "logo": "https://i.postimg.cc/BvRGsYZk/20260708-133716.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
     },
     {
-        "id": 25,
+        "id": 28,
         "name": "Somoy Tv",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkL25zlzQoETCWK9SRtqY78GcKkwN0-E-7kN3icCFHkrmrslanRxyualtc&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
     },
     {
-        "id": 26,
+        "id": 29,
         "name": "Akhon Tv",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeN76tHPJpc-HkXgr4YsWm9e0yWIAar2FJ1B4Q3ox5FKP-zbfP8rCOxkEe&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8"
     },
     {
-        "id": 27,
+        "id": 30,
         "name": "Boishakhi Tv",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
     },
     {
-        "id": 28,
+        "id": 31,
         "name": "My Tv",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/330px-Logo_of_My_TV_%28Bangladesh%29.svg.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": 29,
+        "id": 32,
         "name": "ATN News",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
     },
     {
-        "id": 30,
+        "id": 33,
         "name": "Global Channel HD",
         "logo": "https://upload.wikimedia.org/wikipedia/bn/6/6a/%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B2_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": 31,
+        "id": 34,
         "name": "Mohona Tv",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": 32,
+        "id": 35,
         "name": "Independent TV",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
     },
     {
-        "id": 33,
+        "id": 36,
         "name": "Ayna Tv",
         "logo": "https://i.ibb.co.com/F4QWxMQ1/ayna.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": 34,
+        "id": 37,
         "name": "Jamuna TV",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
     },
     {
-        "id": 35,
+        "id": 38,
         "name": "Green Tv",
         "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"
     },
     {
-        "id": 36,
+        "id": 39,
         "name": "Channel I HD",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
     },
     {
-        "id": 37,
+        "id": 40,
         "name": "Channel 9 HD",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8"
     },
     {
-        "id": 38,
+        "id": 41,
         "name": "DBC News HD",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"
     },
     {
-        "id": 39,
+        "id": 42,
         "name": "Ekattor HD",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
     },
     {
-        "id": 40,
+        "id": 43,
         "name": "Thikana Tv",
         "logo": "https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8"
     },
     {
-        "id": 41,
+        "id": 44,
         "name": "Maasranga TV",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
     },
     {
-        "id": 42,
+        "id": 45,
         "name": "News 24 HD",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
     },
     {
-        "id": 43,
+        "id": 46,
         "name": "Deepto TV HD",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
     },
     {
-        "id": 44,
+        "id": 47,
         "name": "Bangla Vision",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
     },
     {
-        "id": 45,
+        "id": 48,
         "name": "NTV",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
     },
     {
-        "id": 46,
+        "id": 49,
         "name": "SRK TV",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
     },
     {
-        "id": 47,
+        "id": 50,
         "name": "BTV Shangshad",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
     },
     {
-        "id": 48,
+        "id": 51,
         "name": "Channel 24 HD",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
     },
     {
-        "id": 49,
+        "id": 52,
         "name": "Channel 1",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
     },
     {
-        "id": 50,
+        "id": 53,
         "name": "Star News",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
     },
     {
-        "id": 51,
+        "id": 54,
         "name": "Al Quran",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
     },
     {
-        "id": 52,
+        "id": 55,
         "name": "Unmochon Tv",
         "logo": "https://i.postimg.cc/MK83K74Z/20260705-053736.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8"
     },
     {
-        "id": 53,
+        "id": 56,
         "name": "Al Jazeera",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
     },
     {
-        "id": 54,
+        "id": 57,
         "name": "Sony Max",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyChyEkV9SuWsXb7A_EyU9YwOrMaxvty8msO7FTXvRuK7dFMGGHYUzr6g&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://obiramtv.pro.bd/toffee/play/sony_max.m3u8"
     },
     {
-        "id": 55,
+        "id": 58,
         "name": "Sony Entertainment",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8F1JET_ewnlx1xTvu62eg60XCMqucFbEwr-m76cvPiGRkcA3_a7pJVsv&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://obiramtv.pro.bd/toffee/play/sony_entertainment.m3u8"
     },
     {
-        "id": 56,
+        "id": 59,
         "name": "Sony Entertainment Hd",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b02e7be82b9b488e5a79b0f7e8f7ca1c.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://obiramtv.pro.bd/toffee/play/sonyentertainmnt_hd.m3u8"
     },
     {
-        "id": 57,
+        "id": 60,
         "name": "Sangeet Bangla",
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/Sangeet_Bangla_logo_%282018%29.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://cdn-4.pishow.tv/live/1143/master.m3u8"
     },
     {
-        "id": 58,
+        "id": 61,
         "name": "Sony Max",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi7qMiJArBS9jIsZlWo2qQ7FUfSXL23VfyTN5qc4a-kXghllpIZ4_IDpsh&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://obiramtv.pro.bd/toffee/play/sony_max.m3u8"
     },
     {
-        "id": 59,
+        "id": 62,
         "name": "Atn Music",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_laNnznvidGadk1O6pI_FsGpRqKdrH6MsequORPttJsBNc=s900-c-k-c0x00ffffff-no-rj",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
     },
     {
-        "id": 60,
+        "id": 63,
         "name": "Sony Movies",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8"
     },
     {
-        "id": 61,
+        "id": 64,
         "name": "Music India",
         "logo": "https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://cdn-2.pishow.tv/live/226/master.m3u8"
     },
     {
-        "id": 62,
+        "id": 65,
         "name": "B4U Music",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://cdn-2.pishow.tv/live/415/master.m3u8"
     },
     {
-        "id": 63,
+        "id": 66,
         "name": "Gopal Bhar",
         "logo": "https://i.postimg.cc/T10jC1zQ/1000086945.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8"
     },
     {
-        "id": 64,
+        "id": 67,
         "name": "Tiny POP",
         "logo": "https://i.ibb.co.com/PsfD8Vrn/images-2.webp",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8"
     },
     {
-        "id": 65,
+        "id": 68,
         "name": "PBS Kids",
         "logo": "https://i.ibb.co.com/01gmWfz/images-1.webp",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8"
     },
     {
-        "id": 66,
+        "id": 69,
         "name": "Khushboo Bangla",
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://cdn-4.pishow.tv/live/1473/master.m3u8"
     },
     {
-        "id": 67,
+        "id": 70,
         "name": "Moto Patlu",
         "logo": "https://i.postimg.cc/WbKqj0w3/1000086946.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
     },
     {
-        "id": 68,
+        "id": 71,
         "name": "Tom and Jerry",
         "logo": "https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/SeriesTitle-TomandJerry.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
     },
     {
-        "id": 69,
+        "id": 72,
         "name": "ZB Cartoon",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
-        "id": 70,
+        "id": 73,
         "name": "Batul The Great",
         "logo": "https://i.postimg.cc/WbDWKcdF/20260715-150726.png",
         "category": "General",
