@@ -95,7 +95,7 @@
         "name": "Colors Bangla",
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://footfytv.pro/proxy/direct?url=http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://footfytv.pro/proxy/direct?url=http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8"
     },
     {
         "id": 15,
@@ -403,7 +403,7 @@
         "name": "Al Quran",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8"
     },
     {
         "id": 59,
@@ -533,23 +533,23 @@
     },
     {
         "id": 77,
-        "name": "Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg",
+        "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
     },
     {
         "id": 78,
-        "name": "Jamaica Kingsmen vs Trinbago Knight Riders | Caribbean Premier League 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868086591020x576.jpg",
+        "name": "Aussie Mavericks Jaguars vs VB Realty Cheetahs | World Padel League 2026",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868707321020x576.jpg",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
     },
     {
         "id": 79,
-        "name": "Makhachev vs Machado Garry | UFC 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865328161020x576.jpg",
+        "name": "PUBG Mobile - Day 9 | Esports World Cup 2026 (EWC)",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868384181020x576.jpg",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     }
 ]
