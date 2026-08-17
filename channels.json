@@ -533,23 +533,9 @@
     },
     {
         "id": 77,
-        "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
+        "name": "St Lucia Kings vs Barbados Tridents | Caribbean Premier League 2026",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868713991020x576.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-    },
-    {
-        "id": 78,
-        "name": "Aussie Mavericks Jaguars vs VB Realty Cheetahs | World Padel League 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868707321020x576.jpg",
-        "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-    },
-    {
-        "id": 79,
-        "name": "PUBG Mobile - Day 9 | Esports World Cup 2026 (EWC)",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868384181020x576.jpg",
-        "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     }
 ]
