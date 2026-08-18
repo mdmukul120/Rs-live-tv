@@ -214,7 +214,7 @@
         "name": "Asian Tv",
         "logo": "https://yt3.googleusercontent.com/eMcIPmI9hKQIHua9lU7l7AnELALHsP_1EwIkZ8tJa-FV-epwPdiX0zxb5gnUuH2-R0t8hpxHxA=s900-c-k-c0x00ffffff-no-rj",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://playztv-apps.pages.dev/asian-tv/index.m3u8"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/asian_tv_abr/index.m3u8"
     },
     {
         "id": 32,
@@ -551,5 +551,12 @@
         "logo": "https://i.postimg.cc/WbDWKcdF/20260715-150726.png",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+        "id": 80,
+        "name": "Spain vs Australia | FIH Hockey World Cup 2026",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870372601020x576MEN.jpg",
+        "category": "General",
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     }
 ]
