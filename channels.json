@@ -554,9 +554,16 @@
     },
     {
         "id": 80,
-        "name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870463701020x576.jpg",
+        "name": "England vs Pakistan | Pakistan Tour of England 2026",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+    },
+    {
+        "id": 81,
+        "name": "United States vs Germany - W | FIH Hockey World Cup 2026",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871313501020x576WOMEN.jpg",
+        "category": "General",
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     }
 ]
