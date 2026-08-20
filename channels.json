@@ -81,7 +81,7 @@
         "name": "Star Jalsha HD",
         "logo": "https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://cache.devm3u.top/live/starjalsha.m3u8"
     },
     {
         "id": 13,
@@ -137,7 +137,7 @@
         "name": "Enterr10",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",
         "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://shakplayer.vercel.app/index.html?url=https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
     },
     {
         "id": 21,
@@ -554,16 +554,9 @@
     },
     {
         "id": 80,
-        "name": "England vs Pakistan | Pakistan Tour of England 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg",
+        "name": "St Lucia Kings vs Guyana Amazon Warriors | Caribbean Premier League 2026",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871353901020x576.jpg",
         "category": "General",
         "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-    },
-    {
-        "id": 81,
-        "name": "United States vs Germany - W | FIH Hockey World Cup 2026",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871313501020x576WOMEN.jpg",
-        "category": "General",
-        "stream_url": "https://rs-player.netlify.app/jw-player?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     }
 ]
